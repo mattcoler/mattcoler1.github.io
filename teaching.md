@@ -5,4 +5,4 @@
 - The Social Construction of Meaning in Everyday Life 100 (Global Responsibility BSc., University of Groningen) 2020-2021
 - Academic Communication (Global Responsibility BSc., University of Groningen) 2019
 - Linguistic Anthropology (Anthropology, VU Amsterdam) 2012
-- English for Professional Purposes (HvA Amsterdam University of Applied Sciences) 2011-2012
+- Professional English  (HvA Amsterdam University of Applied Sciences) 2011-2012
