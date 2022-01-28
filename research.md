@@ -24,3 +24,6 @@ This section outlines ongoing research into Voice Technology, Auditory Perceptio
 
 - Boswijk, V., & Coler, M. (2020). [What is Salience?](https://research.rug.nl/en/publications/what-is-salience) Open Linguistics, 6(1), 713-722.
 - Boswijk, V., Loerts, H., Coler, M., & Hilton, N. (2018). [Pupil Size Reflects Increased Processing Load for Salient Variables](https://research.rug.nl/en/publications/pupil-size-reflects-increased-processing-load-for-salient-variabl). Paper presented at Psycholinguistics in Flanders, Ghent, Belgium.
+
+### Musical rhythm perception
+- Coler, M., Guyot, P., & Banegas-Flores, E. (2020). [Verbal art as heuristic for semantic analyses: How non-prosodic poetic structure in the verbal art of Muylaq’ Aymara (Muylaque, Peru)](https://research.rug.nl/en/publications/verbal-art-as-heuristic-for-semantic-analyses-how-non-prosodic-po) . LIAMES: Línguas Indígenas Americanas, 20.
