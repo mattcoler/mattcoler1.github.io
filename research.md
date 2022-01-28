@@ -1,5 +1,5 @@
 # Research
-This section outlines ongoing research into [Voice Technology](https://github.com/mattcoler/mattcoler.github.io/blob/main/research.md#theme-1-voice-technology), Auditory Perception and Minoritized Languages. I provide a selection of related output for each theme. A complete overview of publications can be found on my [CV](https://www.overleaf.com/read/hdtxvkzbzyzq). See also my [OrcID](https://orcid.org/0000-0002-7631-5063).
+This section outlines ongoing research into Voice Technology, Auditory Perception and Minoritized Languages. I provide a selection of related output for each theme.  Much of my research involves collaboration with PhD researchers. A complete overview of publications can be found on my [CV](https://www.overleaf.com/read/hdtxvkzbzyzq). See also my [OrcID](https://orcid.org/0000-0002-7631-5063).
 
 ## Theme 1 Voice Technology
 ### 1.1 Speech recognition: Detecting pathology from voice with Dr. Verkhodanova et al.
@@ -37,5 +37,5 @@ This section outlines ongoing research into [Voice Technology](https://github.co
 ## Theme 4 Minoritized languages and multilingualism
 - Coler, M. & Nevins, A. (Eds.). (accepted). [Contemporary research in minority and diaspora languages of Europe](https://langsci-press.org/catalog/book/332). Language Science Press.
 - Dijkstra, B. E., Coler, M., & Redeker, G. (2020). [The multilingual workplace realities of Polish truckers: A case study in the Netherlands](https://doi.org/10.1515/multi-2020-0038), Multilingua.
-    \item Coler, M. (2010). [A grammar of Muylaq’ Aymara](https://brill.com/view/title/20649). Brill.
-    \item Avelino, H., Coler, M., & Wetzels, L. (Eds.). (2016). [The phonetics and phonology of laryngeal features in Native American Languages](https://brill.com/view/title/32268). Brill.
+- Coler, M. (2010). [A grammar of Muylaq’ Aymara](https://brill.com/view/title/20649). Brill.
+- Avelino, H., Coler, M., & Wetzels, L. (Eds.). (2016). [The phonetics and phonology of laryngeal features in Native American Languages](https://brill.com/view/title/32268). Brill.
