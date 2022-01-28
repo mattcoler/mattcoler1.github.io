@@ -1,6 +1,4 @@
-layout: page
-title: "Professional roles"
-permalink: https://mattcoler.github.io/roles
+
 
 ## Professional roles
 
