@@ -34,3 +34,5 @@ This section outlines ongoing research into Voice Technology, Auditory Perceptio
 - Bild, E., Pfeffer, K., Coler, M., Rubin, O., \& Bertolini, L. (2018). [Public space users’ soundscape evaluations in relation to their activities](https://pure.rug.nl/ws/portalfiles/portal/71389104/fpsyg_09_01593.pdf). _Frontiers in psychology_, 9, 1593.
 - Bild, E., Coler, M., Pfeffer, K., & Bertolini, L. (2016). [Considering sound in planning and designing public spaces: A review of theory and applications and a proposed framework for integrating research and practice](https://research.rug.nl/en/publications/considering-sound-in-planning-and-designing-public-spaces-a-revie). _Journal of Planning Literature_, 31(4), 419-434. 
 
+## Theme 4 Minoritized languages and multilingualism
+
