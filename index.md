@@ -11,6 +11,6 @@ My name is Matt. I'm an Associate Professor Language \& Technology} and the Dire
 ### Committee Membership 
 - Board Member, Open Speech Technology Foundation ([Open Spraaktechnologie](https://openspraaktechnologie.org/))
 - Open Access Ambassador for Campus Fryslân (2019–present)
-- - Council Member, [Center for Research and Practice in Cultural Continuity](http://al.uw.edu.pl/en/centre-for-research-and-practice-in-cultural-continuity/), University of Warsaw
+- Council Member, [Center for Research and Practice in Cultural Continuity](http://al.uw.edu.pl/en/centre-for-research-and-practice-in-cultural-continuity/), University of Warsaw
 - Steering Committee & Scientific Coordinator, [CoLing](https://coling.al.uw.edu.pl/) (H2020-MSCA-RISE-2017)
 - Program Committee for SIGUL 2022 (i.e. a joint Special Interest Group of the [European Language Resources Association](http://www.elra.info/en/) and of the [International Speech Communication Association](https://www.isca-speech.org/iscaweb/)
