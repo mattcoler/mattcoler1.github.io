@@ -27,3 +27,8 @@ This section outlines ongoing research into Voice Technology, Auditory Perceptio
 
 ### Musical rhythm perception
 - Coler, M., Guyot, P., & Banegas-Flores, E. (2020). [Verbal art as heuristic for semantic analyses: How non-prosodic poetic structure in the verbal art of Muylaq’ Aymara (Muylaque, Peru)](https://research.rug.nl/en/publications/verbal-art-as-heuristic-for-semantic-analyses-how-non-prosodic-po) . LIAMES: Línguas Indígenas Americanas, 20.
+
+## Theme 3 Audition
+- Everhardt, M. K., Sarampalis, A., Coler, M., Başkent, D., & Lowie, W. (2022). [Speech Prosody: The Musical, Magical Quality of Speech. Frontiers for Young Minds](https://research.rug.nl/en/publications/speech-prosody-the-musical-magical-quality-of-speech), 10.
+- Dubois, D., Cance, C., Coler, M., Paté, A., \& Guastavino, C. (2021). [Sensory experiences: Exploring meaning and the senses](https://benjamins.com/catalog/celcr.24). John Benjamins Publishing Company.
+
