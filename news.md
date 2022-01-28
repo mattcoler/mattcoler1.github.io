@@ -35,3 +35,5 @@ News follows below. See also my twitter [@mlcoler](https://twitter.com/mlcoler).
 - Jun 09 Leeuwarder Courant [Toont een spraaktest in de toekomst Parkinson aan?](https://lc.nl/friesland/Toont-een-spraaktest-in-de-toekomst-Parkinson-aan-25737812.html) – Research into detection/recognition of Parkinson’s Disease from voice features performed by my PhD student Vass Verkhodanova.
 - Mar 03 Leeuwarder Courant [LC Academie: ‘Als een taal verdwijnt verliezen we iets](https://lc.nl/friesland/LC-Academie-Als-een-taal-verdwijnt-verliezen-we-iets-25413607.html) – My role as Work Package Leader on the MSCA-RISE-H2020 COLING project
 - Feb 18 Leeuwarder Courant  [LC Academie: Wel een rijbewijs, geen taalbewijs: truckerscommunicatie](https://lc.nl/friesland/LC-Academie-Wel-een-rijbewijs-geen-taalbewijs-truckerscommunicatie-25364088.html) – Research into multilingual communication strategies of long-haul truckers performed by my PhD student Bianca Dijkstra.
+
+[⬅️](https://mattcoler.github.io/)
