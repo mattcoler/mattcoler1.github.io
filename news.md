@@ -1,30 +1,25 @@
 News follows below. See also my twitter [@mlcoler](https://twitter.com/mlcoler)
 
-\subsection{2022}
-\begin{itemize}
-    \item Jan 17  Doctoral supervisor at \href{https://vu.nl/nl/agenda/2022/promotie-g-pinto-de-faria-junior}{defense of G. Pinto De Faria Junior}, who made the first description of the endangered Carib language Bakairi. 
-    
-     \item Jan 17 Popular article published in an OA journal for school children: Everhardt, M., Sarampalis, T., Coler, M., Baskent, D \& Lowie, W. (2022). \href{https://kids.frontiersin.org/articles/10.3389/frym.2021.698575}{\textit{Speech Prosody: The Musical, Magical Quality of Speech}}. Frontiers for Young Minds.
-        
-    \item Jan 13 Accepted an invitation to join the Program Committee for SIGUL 2022 (held in Marseille, France, on 24-25 June 2022). SIGUL is a joint Special Interest Group of the European Language Resources Association (ELRA) and of the International Speech Communication Association (ISCA).
+# 2022
+- Jan 17  Doctoral supervisor at [defense of G. Pinto De Faria Junior](https://vu.nl/nl/agenda/2022/promotie-g-pinto-de-faria-junior), who made the first description of the endangered Carib language Bakairi. 
+- Jan 17 Popular article published in an OA journal for school children: Everhardt, M., Sarampalis, T., Coler, M., Baskent, D & Lowie, W. (2022). [Speech Prosody: The Musical, Magical Quality of Speech](https://kids.frontiersin.org/articles/10.3389/frym.2021.698575).
+- Jan 13 Accepted an invitation to join the Program Committee for SIGUL 2022 (held in Marseille, France, on 24-25 June 2022). SIGUL is a joint Special Interest Group of the European Language Resources Association (ELRA) and of the International Speech Communication Association (ISCA).
 
-\end{itemize}
-\subsection{2021}
-\begin{itemize}
-\item Nov 18 Doctoral supervisor at \href{https://www.oslit.nl/jesse-van-amelsvoort-minorities-migration-mediation-expressing-sense-of-belonging-in-multilingual-europe/}{defense of Jesse van Amelsvoort}
-\item Nov 11 Open Science day presentation at Campus Fryslân: Play with your phones and learn about Voice Tech!
-\item Nov 04 Doctoral supervisor at defense of Vass Verkhodanova
-  \item July 02 Workshop participant: Speech tech stack/devops (organized with Stichting Open Spraaktechnologie)
-  \item Jun 30 Diversity in Education Leeuwarden \href{https://www.rug.nl/education/summer-winter-schools/cultural-linguistic-diversity/diversity-in-education-final-programme2021.pdf}{Summer School in Cultural \& Linguistic Diversity} Coordinator and Presenter (with Phat Do)
-  \item Jun 26 Article about my research team in the Dutch national newspaper \textit{De Telegraaf}.
-  \item Jun 25 \href{https://lct-master.org/contents_2014/annualMeeting2021.php}{}LCT Annual Meeting} Erasmus Mundus presentation “Voice Technology: Opportunities for Cooperation” (with Phat Do)
-  \item Jun 24 Verbindt Newspaper \textit{Een betere kwaliteit van leven met spraaktechnologie} - Featuring the Voice Tech MSc.  and ongoing research
-  \item Jun 01 Uni Groningen Magazine \href{https://www.google.com/url?q=https%3A%2F%2Fwww.rug.nl%2Fnews%2F2021%2F06%2Fspraaktechnologie-zoveel-meer-dan-een-voice-assistant&sa=D&sntz=1&usg=AFQjCNHwKsQykLK5oyrsYYQUABc-n5zEQg}{Speech technology: So much more than an assistant} – Featuring voice technology research in my team
-  \item May 27 Guest speaker at the Innovation Cluster Drachten ICD Kenniskring HMI: “ears \& mouth” of autonomous systems
-  \item Apr 23 Guest presenter at ILLL Fieldtrip Speech technology (University of Groningen)
-  \item Apr 13: UKrant \href{https://www.google.com/url?q=https%3A%2F%2Fwww.ukrant.nl%2Fmagazine%2Flanguage-is-the-key-to-a-culture%2F%3Flang%3Den&sa=D&sntz=1&usg=AFQjCNGEesRlrV0qOJThjygkZ8hsODYBng}{Language is the key to a culture} – Featuring my approach to collaborative research in Peru
-  \item Apr 07: Campus Fryslan \href{https://www.google.com/url?q=https%3A%2F%2Fwww.rug.nl%2Fcf%2Fcampus-fryslan%2Fcf-masters%2Fevents%2Flecture-building-language-technology-for-everyone%3Flang%3Den&sa=D&sntz=1&usg=AFQjCNGCrUOCgbDixFlKikpo2vPhwxeIuA}{Building Language Technology for Everyone} – Presented with Daan van Esch to AI Student Association
-  \item Mar 05: UKrant \href{https://www.google.com/url?q=https%3A%2F%2Fwww.ukrant.nl%2Fthere-are-tons-of-social-challenges-that-voice-technology-can-tackle%2F%3Flang%3Den&sa=D&sntz=1&usg=AFQjCNHunrNlJjKBskigCjU7Q27P3DeRkA}{5 questions about the new voice technology master} – I was interviewed about the Voice Technology Master’s program and its role at the University of Groningen
+# 2021
+- Nov 18 Doctoral supervisor at [defense of Jesse van Amelsvoort](https://www.oslit.nl/jesse-van-amelsvoort-minorities-migration-mediation-expressing-sense-of-belonging-in-multilingual-europe/)
+- Nov 11 Open Science day presentation at Campus Fryslân: Play with your phones and learn about Voice Tech!
+- Nov 04 Doctoral supervisor at defense of Vass Verkhodanova
+- July 02 Workshop participant: Speech tech stack/devops (organized with Stichting Open Spraaktechnologie)
+- Jun 30 Diversity in Education Leeuwarden [Summer School in Cultural \& Linguistic Diversity](https://www.rug.nl/education/summer-winter-schools/cultural-linguistic-diversity/diversity-in-education-final-programme2021.pdf). Coordinator and Presenter (with Phat Do).
+- Jun 26 Article about my research team in the Dutch national newspaper \textit{De Telegraaf}.
+- Jun 25 [LCT Annual Meeting](https://lct-master.org/contents_2014/annualMeeting2021.php}) Erasmus Mundus presentation “Voice Technology: Opportunities for Cooperation” (with Phat Do)
+- Jun 24 Verbindt Newspaper _Een betere kwaliteit van leven met spraaktechnologie_ - Featuring the Voice Tech MSc.  and ongoing research.
+- Jun 01 Uni Groningen Magazine [Speech technology: So much more than an assistant](https://www.google.com/url?q=https%3A%2F%2Fwww.rug.nl%2Fnews%2F2021%2F06%2Fspraaktechnologie-zoveel-meer-dan-een-voice-assistant&sa=D&sntz=1&usg=AFQjCNHwKsQykLK5oyrsYYQUABc-n5zEQg) – Featuring voice technology research in my team
+- May 27 Guest speaker at the Innovation Cluster Drachten ICD Kenniskring HMI: “ears \& mouth” of autonomous systems
+- Apr 23 Guest presenter at ILLL Fieldtrip Speech technology (University of Groningen)
+- Apr 13 UKrant [Language is the key to a culture](https://ukrant.nl/magazine/language-is-the-key-to-a-culture/?lang=en) – Featuring my approach to collaborative research in Peru
+- Apr 07 Campus Fryslan [Building Language Technology for Everyone](https://m.facebook.com/events/online/event-building-language-technology-for-everyone/181682710288847/) – Presented with Daan van Esch to AI Student Association
+- Mar 05 UKrant [5 questions about the new voice technology master](https://ukrant.nl/there-are-tons-of-social-challenges-that-voice-technology-can-tackle/?lang=en) – I was interviewed about the Voice Technology Master’s program and its role at the University of Groningen
   \item Feb 13: Omrop Fryslân \href{https://www.google.com/url?q=https%3A%2F%2Fnos.nl%2Fregio%2Ffriesland%2Fartikel%2F98299-eerste-europese-pratende-apparaten-opleiding-naar-leeuwarden&sa=D&sntz=1&usg=AFQjCNH1LAIuKXGOc1quniVihX_3W_soEA}{Earste Europeeske ‘pratende apparaten’-oplieding nei Ljouwert} – Description of the Voice Tech Master’s program (story was picked up by Dutch Public Broadcasting NOS)
   \item Feb 11: Leeuwarder Courant \href{https://www.google.com/url?q=https%3A%2F%2Fwww.lc.nl%2Ffriesland%2Fleeuwarden%2FAlexa-Duolingo-of-Google-Home-studenten-van-de-nieuwe-master-voice-technology-weten-er-binnenkort-alles-van-26498916.html&sa=D&sntz=1&usg=AFQjCNHrW3mT2b1YNzR5Lik60D9Xya-Alg}{Alexa, Duolingo of Google Home: studenten van de nieuwe master voice technology weten er binnenkort alles van} – Blurb about the MSc. Voice Tech program
   \item Jan 22: Moderator for the \href{https://www.google.com/url?q=https%3A%2F%2Ffoundation.mozilla.org%2Fde%2Fblog%2F8-day-dutch-and-frisian-common-voice-contribute-thon%2F&sa=D&sntz=1&usg=AFQjCNF7aj-d0dMyMyvSM9Zm07eSYnAerA}{Common Voice Contribute-a-thon Dutch vs. Frisian challenge}.
