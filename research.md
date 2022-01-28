@@ -1,6 +1,8 @@
 # Research
 This section outlines ongoing research into Voice Technology, Auditory Perception and Minoritized Languages. I provide a selection of related output for each theme.  Much of my research involves collaboration with [PhD researchers](https://mattcoler.github.io/PhDcollab). A complete overview of publications can be found on my [CV](https://www.overleaf.com/read/hdtxvkzbzyzq). See also my [OrcID](https://orcid.org/0000-0002-7631-5063).
 
+[⬅️](https://mattcoler.github.io/)
+
 ## Theme 1 Voice Technology
 ### 1.1 Speech recognition: Detecting pathology from voice with Dr. Verkhodanova et al.
 - V. Verkhodanova, M. Coler, R. Jonkers\& W. Lowie (2021) [How expertise and language familiarity influence perception of speech of people with Parkinson’s disease](https://research.rug.nl/en/publications/how-expertise-and-language-familiarity-influence-perception-of-sp), _Clinical Linguistics & Phonetics_, DOI: [10.1080/02699206.2021.2003433](https://doi.org/10.1080/02699206.2021.2003433)
@@ -39,3 +41,5 @@ This section outlines ongoing research into Voice Technology, Auditory Perceptio
 - Dijkstra, B. E., Coler, M., & Redeker, G. (2020). [The multilingual workplace realities of Polish truckers: A case study in the Netherlands](https://doi.org/10.1515/multi-2020-0038), Multilingua.
 - Coler, M. (2010). [A grammar of Muylaq’ Aymara](https://brill.com/view/title/20649). Brill.
 - Avelino, H., Coler, M., & Wetzels, L. (Eds.). (2016). [The phonetics and phonology of laryngeal features in Native American Languages](https://brill.com/view/title/32268). Brill.
+
+[⬅️](https://mattcoler.github.io/)
