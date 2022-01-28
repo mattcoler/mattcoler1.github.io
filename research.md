@@ -35,4 +35,7 @@ This section outlines ongoing research into [Voice Technology](https://github.co
 - Bild, E., Coler, M., Pfeffer, K., & Bertolini, L. (2016). [Considering sound in planning and designing public spaces: A review of theory and applications and a proposed framework for integrating research and practice](https://research.rug.nl/en/publications/considering-sound-in-planning-and-designing-public-spaces-a-revie). _Journal of Planning Literature_, 31(4), 419-434. 
 
 ## Theme 4 Minoritized languages and multilingualism
-
+- Coler, M. & Nevins, A. (Eds.). (accepted). [Contemporary research in minority and diaspora languages of Europe](https://langsci-press.org/catalog/book/332). Language Science Press.
+- Dijkstra, B. E., Coler, M., & Redeker, G. (2020). [The multilingual workplace realities of Polish truckers: A case study in the Netherlands](https://doi.org/10.1515/multi-2020-0038), Multilingua.
+    \item Coler, M. (2010). [A grammar of Muylaq’ Aymara](https://brill.com/view/title/20649). Brill.
+    \item Avelino, H., Coler, M., & Wetzels, L. (Eds.). (2016). [The phonetics and phonology of laryngeal features in Native American Languages](https://brill.com/view/title/32268). Brill.
