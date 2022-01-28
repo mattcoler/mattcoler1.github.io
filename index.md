@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Hello!
 
-You can use the [editor on GitHub](https://github.com/mattcoler/mattcoler.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Matt. I'm an Associate Professor Language \& Technology} and the Director of the MSc. Voice Technology at the [University of Groningen / Campus Fryslân](https://www.rug.nl/staff/m.coler/). I am a linguist who works on voice technology, auditory perception, and minoritized languages. This site provides an overview of my professional profile.  My "official", detailed conventional CV is [here](https://www.overleaf.com/read/hdtxvkzbzyzq). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Professional Roles
+- Director, [Voice Technology Master’s Program](https://sites.google.com/rug.nl/matt/voice-technology-msc)
+- Director, Graduate School Campus Fryslân
+- Manager, [Language, Technology and Culture Research Department](https://www.rug.nl/cf/onderzoek-gscf/research/frisian-flagships/flagship-3_-culture_-language-_-technology?lang=en). UG Campus Fryslân.
+- Editorial Assistant, Probus Journal of Romance Linguistics
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mattcoler/mattcoler.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Committee Membership 
+- Board Member, Open Speech Technology Foundation ([Open Spraaktechnologie](https://openspraaktechnologie.org/))
+- Open Access Ambassador for Campus Fryslân (2019–present)
+- - Council Member, [Center for Research and Practice in Cultural Continuity](http://al.uw.edu.pl/en/centre-for-research-and-practice-in-cultural-continuity/), University of Warsaw
+- Steering Committee & Scientific Coordinator, [CoLing](https://coling.al.uw.edu.pl/) (H2020-MSCA-RISE-2017)
+- Program Committee for SIGUL 2022 (i.e. a joint Special Interest Group of the [European Language Resources Association](http://www.elra.info/en/) and of the [International Speech Communication Association](https://www.isca-speech.org/iscaweb/)
