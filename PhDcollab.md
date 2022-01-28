@@ -8,3 +8,5 @@ PhD students who I have supervised go on to do interesting things:
 - Dr. Vass Verkhodanova (Uni of Groningen), defended in 2021, hired immediately after her defense as an Assistant Professor at the University of Groningen, The Netherlands
 - [Dr. Jesse van Ameslvoort](https://www.oslit.nl/jesse-van-amelsvoort-minorities-migration-mediation-expressing-sense-of-belonging-in-multilingual-europe/) (Uni of Groningen), defended in 2021, hired before his defense as a lecturer at the University of Amsterdam, the Netherlands.
 - [Dr. G. Pinto De Faria Junior](https://vu.nl/nl/agenda/2022/promotie-g-pinto-de-faria-junior). Free University Amsterdam}), defended in 2022.
+
+[⬅️ back]((https://mattcoler.github.io/research)) [🏚 home](https://mattcoler.github.io/)
