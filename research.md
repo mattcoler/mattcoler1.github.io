@@ -13,3 +13,4 @@ This section outlines ongoing research into Voice Technology, Auditory Perceptio
 - Everhardt, M. K., Sarampalis, A., Coler, M., Başkent, D., & Lowie, W. (2020). Processing of prosodically marked focus in a cochlear implant simulation by non-native listeners: Preliminary results. The Journal of the Acoustical Society of America, 148(4), 2721-2721.
 
 ### [Theme 3] Voice synthesis: Synthesizing lesser-resourced languages with Do et al.
+-  Do, P., Dijkstra, J.E., Coler, M. \& Klabbers, E. (2021). [A Systematic Review and Analysis of Multilingual Data Strategies in Text-to-Speech for Low-Resource Languages](https://www.isca-speech.org/archive/pdfs/interspeech_2021/do21_interspeech.pdf). Proceedings of Interspeech 2021.
